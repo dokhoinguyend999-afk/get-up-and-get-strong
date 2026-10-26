@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "title": "GET UP AND GET STRONG! - David Goggins Running Challenge",
+  "author_name": "David Goggins Running Challenge",
+  "author_url": "https://discipline-builds-freedom-a-journey-with-david-go.ai.studio/",
+  "provider_name": "GET UP AND GET STRONG!",
+  "provider_url": "https://discipline-builds-freedom-a-journey-with-david-go.ai.studio/",
+  "width": 1280,
+  "height": 720,
+  "html": "<iframe src=\"https://discipline-builds-freedom-a-journey-with-david-go.ai.studio/\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media\" style=\"width:100%;height:100%;border:none;border-radius:12px;\" allowfullscreen></iframe>"
+}

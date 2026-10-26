@@ -1,0 +1,6 @@
+{
+  "name": "GET UP AND GET STRONG! - David Goggins Running Challenge",
+  "description": "A high-energy running challenge mini-game with David Goggins featuring continuous courses, animated runners, milestone checkpoints, and healthy lifestyle quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
